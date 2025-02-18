@@ -1,1 +1,1 @@
-# RTO-MANAGEMENT-SYSTEM-
+The RTO Management System with AI Chatbot in Java is a software application designed to streamline and automate the functioning of a Regional Transport Office (RTO). It integrates the management of vehicle registrations, driving licenses, permit issuance, and other services typically offered by an RTO.
